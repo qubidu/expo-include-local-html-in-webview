@@ -2,7 +2,7 @@
 
 This is an example of how to include a local HTML file, that is bundled into an expo app inside a WebView using:
 
-- Expo (currently at SKD version 40)
+- Expo (currently at SDK version 40)
 - Typescript
 - ES6 imports
 
